@@ -6,6 +6,7 @@ public class Principal1 {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Git");
 		System.out.println("Cambio 1");
+		System.out.println("Pruebas Git. Clase Cambio1");
 	}
 
 }
